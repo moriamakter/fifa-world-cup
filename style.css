@@ -1,0 +1,22 @@
+body {
+    width: 1321px;
+    height: 646px;
+    background-color: #1E1E1E;
+
+}
+
+.banner {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    justify-content: center;
+}
+
+.left h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 80px;
+    color: #FFFFFF;
+}
